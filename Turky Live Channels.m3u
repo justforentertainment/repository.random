@@ -1,0 +1,19 @@
+﻿#EXTM3U
+#EXTINF:-1,BTV
+rtmp://stream.taksimbilisim.com:1935/btv/bant1
+#EXTINF:-1,Show TV
+http://bit.do/Showtv
+#EXTINF:-1,TRT Diyanet
+rtmp://si.trtcdn.com/tv/trtdiyanet/mp4:trtdiyanet_3
+#EXTINF:-1,Kanal D
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1,Batiyakasi TV
+rtmp://s01.speednext.com:1935/batiyakasitv/batiyakasitv
+#EXTINF:-1,Ans TV
+http://ans-ng.ercdn.com/ans/live/anstv.m3u8
+#EXTINF:-1,Zaman TV
+http://mn-i.mncdn.com/zaman_live3/live/HasBahCa.m3u8
+#EXTINF:-1,Ulke TV HD
+http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
+#EXTINF:-1,G TV
+http://gtv.live.cdn.bitgravity.com/gtv/live/feed03
