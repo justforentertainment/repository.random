@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,A.K.A. New
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Amazing Live
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?
+#EXTINF:-1,Beatz
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Club Land TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Djing Dance Floor
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,Djing Hot Hot Hot
+http://djing.com/tv/hothothot.m3u8
+#EXTINF:-1,Djing Underground
+http://djing.com/tv/underground.m3u8
+#EXTINF:-1,Eska Go
+rtmp://stream.smcloud.net/live2/vox/vox_360p
+#EXTINF:-1,Eska Go Best
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,Eska Party
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1,Eska Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1,Europa Plus TV
+rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp
+#EXTINF:-1,Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,Music Vox TV
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:-1,One HD 1
+http://rtmp.one.by:1300/
+#EXTINF:-1,One HD 2
+http://rtmp.one.by:2300/
+#EXTINF:-1,Polo Party TV
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+#EXTINF:-1,Power Turk HD
+http://185.28.3.10/powertv/powerturktvh.stream/playlist.m3u8
+#EXTINF:-1,Radio Monte Carlo TV
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1,Si TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1,U Rock
+http://82.76.249.77/utvedge/utvmqlivehls/chunklist.m3u8
+#EXTINF:-1,Vevo Channel 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Vevo Channel 1 (Backup)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Vevo Channel 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Vevo Channel 2 (Backup)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Vevo Channel 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,Vevo Channel 3 (Backup)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
