@@ -1,0 +1,35 @@
+#EXTM3U tvg-shift=3
+#EXTINF:0,group-title="[COLOR darkorange]Streams Come And Go's - Arroyos Ir Y Venir[/COLOR]",
+http://?
+#EXTINF:0,[COLOR yellow]Sports Channels[/B][/COLOR]
+http://?
+#EXTINF:-1,Espn HD
+http://wcm777.la/tp/espn-hd.m3u8
+#EXTINF:-1,Espn 1
+http://wcm777.la/tp/espn.m3u8
+#EXTINF:-1,Espn 2
+http://wcm777.la/tp/espn-2.m3u8
+#EXTINF:-1,Espn 3
+http://wcm777.la/tp/espn-3.m3u8
+#EXTINF:-1,Fox Sports
+http://wcm777.la/tp/fox-sports.m3u8
+#EXTINF:-1,Fox Sports 2
+http://wcm777.la/tp/fox-sports-2.m3u8
+#EXTINF:-1,Fox Sports 3
+http://wcm777.la/mariocs.php?canal=FoxSports3SD&cm=3806&f=mariocs.m3u8
+#EXTINF:-1,Bein Sports
+http://wcm777.la/mariocs.php?canal=BeinSportsLA&cm=2527&f=mariocs.m3u8
+#EXTINF:-1,Win Sports
+http://wcm777.la/stream/Win-Sports.m3u8
+#EXTINF:-1,Cmd Peru
+http://wcm777.la/stream/CMD.m3u8
+#EXTINF:-1,Ufc Network
+http://wcm777.la/mariocs.php?canal=UFCNetworkLA&cm=1047&f=mariocs.m3u8
+#EXTINF:0,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Planeta Futbol
+http://wcm777.la/mariocs.php?canal=PlanetaFutbolLA&cm=1477&f=mariocs.m3u8
+#EXTINF:0,F1 Latino
+http://wcm777.la/mariocs.php?canal=F1LA&cm=1695&f=mariocs.m3u8
+#EXTINF:0,WWE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
