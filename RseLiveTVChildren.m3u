@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0,[COLOR darkorange]Streams Come And Go's - Arroyos Ir Y Venir[/COLOR]
+http://?
+#EXTINF:0,[B][COLOR yellow]Childrens TV Channels Live[/COLOR][/B]
+http://?
+#EXTM3U
+#EXTINF:0,[COLOR deepskyblue]BabyTV[/COLOR]
+http://wcm777.la/mariocs.php?canal=BabyTVLASD&cm=317&f=mariocs.m3u8
+#EXTINF:0,[COLOR deepskyblue]Boomerang[/COLOR]
+http://wcm777.la/tp/boomerang.m3u8
+#EXTINF:0,[COLOR deepskyblue]Cartoon Network[/COLOR]
+http://wcm777.la/tp/cartoon-network.m3u8
+#EXTINF:0,[COLOR deepskyblue]Discovery Kids[/COLOR]
+http://wcm777.la/tp/discovery-kids.m3u8
+#EXTINF:0,[COLOR deepskyblue]Disney Channel[/COLOR]
+http://wcm777.la/tp/disney-channel.m3u8
+#EXTINF:0,[COLOR deepskyblue]Disney Junior[/COLOR]
+http://wcm777.la/tp/disney-jr.m3u8
+#EXTINF:0,[COLOR deepskyblue]Disney XD[/COLOR]
+http://wcm777.la/tp/disney-xd.m3u8
+#EXTINF:0,[COLOR deepskyblue]Nick HD[/COLOR]
+http://wcm777.la/tp/nick-hd.m3u8
+#EXTINF:0,[COLOR deepskyblue]Nick Junior[/COLOR]
+http://wcm777.la/tp/nick-jr.m3u8
+#EXTINF:0,[COLOR deepskyblue]Nickelodeon[/COLOR]
+http://wcm777.la/tp/nick.m3u8
+#EXTINF:0,[COLOR deepskyblue]Nicktoons[/COLOR]
+http://wcm777.la/tp/nicktoons.m3u8
+#EXTINF:0,[COLOR deepskyblue]Tooncast[/COLOR]
+http://wcm777.la/tp/tooncast.m3u8
+#EXTINF:0,[B][COLOR yellow][/COLOR][/B]
+http://?
+#EXTINF:0,[B][COLOR yellow]More To Be Added Soon[/COLOR][/B]
+http://?
