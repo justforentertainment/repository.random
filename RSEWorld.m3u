@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:0,[COLOR darkorange]Streams Come And Go's - Arroyos Ir Y Venir[/COLOR]
+http://?
+#EXTINF:0,[B][COLOR yellow]World Test Channels[/COLOR][/B]
+http://?
+#EXTM3U
+#EXTINF:0,[COLOR deepskyblue]Universal Movies[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:0,[COLOR deepskyblue]Mega[/COLOR]
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:0,[COLOR deepskyblue]Telemundo[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:0,[COLOR deepskyblue]Telemundo (Backup)[/COLOR]
+http://q.gs/9830047/telemundotodokodim3u8
+#EXTINF:0,[COLOR deepskyblue]Teveo Miami[/COLOR]
+http://q.gs/9830047/tveomiamitodokodim3u8
+#EXTINF:0,[COLOR deepskyblue]Tele Caribe[/COLOR]
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:0,[COLOR deepskyblue]Tele Antioquia[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:0,[COLOR deepskyblue]Tele Amiga[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
+#EXTINF:0,[COLOR deepskyblue]Tigo Musica[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:0,[COLOR deepskyblue]Antenna 3[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
+#EXTINF:0,[COLOR deepskyblue]Tele Cafe[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:0,[COLOR deepskyblue]Trendy Musica[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:0,[COLOR deepskyblue]Mi Musica HD[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:0,[COLOR deepskyblue]VMas TV Plus[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:0,[COLOR deepskyblue]Antena[/COLOR]
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:0,[COLOR deepskyblue]Teleradio America[/COLOR]
+http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
+#EXTINF:0,[COLOR deepskyblue]Cer TV[/COLOR]
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:0,[COLOR deepskyblue]Tele Nord[/COLOR]
+http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
+#EXTINF:0,[COLOR deepskyblue]Vega Teve[/COLOR]
+http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
+#EXTINF:0,[COLOR deepskyblue]Musa TV[/COLOR]
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
+#EXTINF:0,[COLOR deepskyblue]Soy FM[/COLOR]
+http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
+#EXTINF:0,[COLOR deepskyblue]Animacion En Espanol[/COLOR]
+http://q.gs/9830047/animeespaoltodokodim3u8
+#EXTINF:0,[COLOR deepskyblue]LA 1[/COLOR]
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:0,[COLOR deepskyblue]LA 2[/COLOR]
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+
+
+
+
+

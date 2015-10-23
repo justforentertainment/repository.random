@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:0,[COLOR darkorange]Streams Come And Go's - Arroyos Ir Y Venir[/COLOR]
+http://?
+#EXTINF:0,[B][COLOR yellow]Sports Time TV Germany[/COLOR][/B]
+http://?
+#EXTINF:0,[COLOR deepskyblue]Sport Time TV 1[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:0,[COLOR deepskyblue]Sport Time TV 2[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:0,[COLOR deepskyblue]Sport Time TV 3[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:0,[COLOR deepskyblue]Sport Time TV 4[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:0,[COLOR deepskyblue]Sport Time TV 4 (Backup)[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+#EXTINF:0,[COLOR deepskyblue]Sport Time TV 5[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:0,[COLOR deepskyblue]Sport Time TV 5 (Backup)[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:0,[COLOR deepskyblue]Sport Time TV 6[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:0,[COLOR deepskyblue]Sport Time TV 6 (Backup)[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:0,[COLOR deepskyblue]Sport Time TV 7[/COLOR][/B]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+ 
