@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0,[B][COLOR deepskyblue]Turkish Sinema[/COLOR][/B]
+http://?
+#EXTM3U
+#EXTINF:0,[COLOR yellow]Sinema 1[/COLOR]
+mmsh://50.7.207.114:80/sinema1/udp/239.99.4.0:5001?MSWMExt=.asf
+#EXTINF:0,[COLOR yellow]Sinema 2[/COLOR]
+mmsh://50.7.207.114:80/sinema2/udp/239.99.4.0:5002?MSWMExt=.asf
+#EXTINF:0,[COLOR yellow]Sinema 3[/COLOR]
+mmsh://50.7.207.114:80/sinema3/udp/239.99.4.0:5003?MSWMExt=.asf
+#EXTINF:0,[COLOR yellow]Sinema 4[/COLOR]
+mmsh://50.7.207.114:80/sinema4/udp/239.99.4.0:5004?MSWMExt=.asf
+#EXTINF:0,[COLOR yellow]Sinema 5[/COLOR]
+mmsh://50.7.207.114:80/sinema5/udp/239.99.4.0:5005?MSWMExt=.asf
+#EXTINF:0,[COLOR yellow]Sinema 6[/COLOR]
+mmsh://50.7.207.114:80/sinema6/udp/239.99.4.0:5006?MSWMExt=.asf
